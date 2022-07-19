@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'đùa thui phại là Bảo Ngọc chớ  😘😘',
     messDesc: 'còn ai vào đây nữa hả công chúaaa.',
     btnAccept: 'IB với ngừi kewt nhấc dũ trụ nàoooo :3 ',
-    messLink: 'https://m.me/as.cacf' 
+    messLink: 'sieu nhan dang cap dep trai' 
 }
